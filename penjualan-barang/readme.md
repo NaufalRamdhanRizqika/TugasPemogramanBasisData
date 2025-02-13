@@ -1,6 +1,9 @@
 ## Deskripsi Aplikasi 
 Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.
 
+#Link DEMO APLIKASI
+https://youtu.be/rcD2342VOJM?si=ss4i1FaTP2X2XMET
+
 ## Penggunaan Login
 Username : admin
 <br/>
